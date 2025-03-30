@@ -2,7 +2,7 @@ const {readEnv} = require('../lib/database')
 const {cmd , commands} = require('../command')
 
 cmd({
-    pattern: "alive",
+    pattern: "IM ALIVE  CREATE BY K A V I Y A ",
     desc: "Check bot online or no.",
     category: "main",
     filename: __filename
