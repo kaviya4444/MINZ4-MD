@@ -1,12 +1,12 @@
 {
-  "name": "❤️K A V I Y A❤️",
+  "name": "❤️MINZ❤️",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ❤️K A V I Y A❤️",
-    "stop": "pm2 stop ❤️K A V I Y A❤️",
-    "restart": "pm2 restart ❤️K A V I Y A❤️"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ❤️MINZ❤️",
+    "stop": "pm2 stop ❤️MINZ❤️",
+    "restart": "pm2 restart ❤️MINZ❤️"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
