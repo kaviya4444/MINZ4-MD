@@ -84,15 +84,15 @@ ${menu.group}
 ${menu.search}
 
 
-🥶𝐌𝐚𝐝𝐞 𝐛𝐲 𝐒_𝐈_𝐇_𝐈_𝐋_𝐄_𝐋🥶
+🥶𝐌𝐚𝐝𝐞 𝐛𝐲 K A V I Y A🥶
 
-> ROBIN MENU MSG
+> MINZ MENU MSG
 `;
       await robin.sendMessage(
         from,
         {
           image: {
-            url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20menu.jpg",
+            url: "https://raw.githubusercontent.com/kaviya4444/IMAGG/refs/heads/main/18_06.jfif",
           },
           caption: madeMenu,
         },
